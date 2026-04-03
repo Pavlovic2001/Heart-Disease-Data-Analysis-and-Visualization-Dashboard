@@ -42,8 +42,7 @@ Follow these steps to set up and run the project locally.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/Pavlovic2001/heart-disease-analysis
-    cd heart-disease-analysis
+    git clone https://github.com/Pavlovic2001/Heart-Disease-Data-Analysis-and-Visualization-Dashboard
     ```
 
 2.  **Create and activate a virtual environment:**
